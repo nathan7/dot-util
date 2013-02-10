@@ -1,7 +1,7 @@
 
 # dot-util
 
-  ``dot('x') ~= function(obj) { return obj.x }``
+  Convenient property accessors.
 
 ## Installation
 
