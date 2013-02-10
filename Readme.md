@@ -5,6 +5,8 @@
 
 ## Installation
 
+    $ npm install dot-util
+
     $ component install nathan7/dot-util
 
 ## Example
