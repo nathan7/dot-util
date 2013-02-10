@@ -1,0 +1,12 @@
+{
+  "name": "dot-util",
+  "version": "1.0.0",
+  "description": "dot('x') ~= function(obj) { return obj.x }",
+  "keywords": [ "utility", "iterator" ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git://github.com/nathan7/dot-util.git" },
+  "main": "dot.js",
+  "scripts": { "test": "mocha -R spec" },
+  "readmeFilename": "Readme.md"
+}
